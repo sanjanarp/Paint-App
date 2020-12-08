@@ -2,7 +2,7 @@
 
 <a href="https://www.codefactor.io/repository/github/sanjanarp/paint-app"><img src="https://www.codefactor.io/repository/github/sanjanarp/paint-app/badge" alt="CodeFactor" /></a>
 
-A new Flutter application.
+A drawing app made using Flutter.
 
 ## Getting Started
 
