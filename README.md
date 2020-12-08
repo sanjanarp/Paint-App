@@ -1,5 +1,7 @@
 # paint
 
+<a href="https://www.codefactor.io/repository/github/sanjanarp/paint-app"><img src="https://www.codefactor.io/repository/github/sanjanarp/paint-app/badge" alt="CodeFactor" /></a>
+
 A new Flutter application.
 
 ## Getting Started
