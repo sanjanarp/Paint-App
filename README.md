@@ -1,5 +1,7 @@
 # paint
 
+https://www.codefactor.io/repository/github/sanjanarp/paint-app/badge/master
+
 A new Flutter application.
 
 ## Getting Started
